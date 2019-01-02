@@ -524,6 +524,7 @@
 		}
 		.orderLight p {
 			max-width: 500px;
+			padding: 100px 0;
 		}
 	}
 
@@ -569,6 +570,7 @@
 		}
 		.orderLight p {
 			max-width: 300px;
+			padding: 100px 0;
 		}
 		/* #videoBlock > .textRight p {
 			/* margin: 10px 10px; 
