@@ -49,7 +49,6 @@
 		background-color: black; 
 	}
 
-
 /* main parallax */
 	#container {
 		display: flex;
@@ -357,6 +356,7 @@
 		background-size: cover;
 		box-sizing: border-box;
 	}
+
 /* video block */
 	.fullWidth{
 		color: #fff;
@@ -375,7 +375,7 @@
 	.orderLight p {
 		max-width: 900px;
 		margin: 0 auto 25px;
-		padding: 100px 0;
+		padding-top: 50px;
 		font-size: 1.5rem;
 		font-weight: 400;
 	}
@@ -560,8 +560,8 @@
 		}
 		.orderLight p {
 			max-width: 500px;
-			padding: 100px 0;
 		}
+
 		/* modal windows in high resolution <900px */
 		#highRes1 {
 			min-height: 600px;
@@ -627,12 +627,12 @@
 		}
 		.orderLight p {
 			max-width: 300px;
-			padding: 100px 0;
 		}
 		.formField {
 			width: 300px;
 			margin: 0 auto;
 		}
+
 		/* modal windows in high resolution <600px */
 		#highRes1 {
 			min-height: 400px;
