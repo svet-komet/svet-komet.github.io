@@ -1,3 +1,1 @@
-# http://svet-komet.github.io
-
-Svet Komet landing page.
+Svet Komet [landing-page](https://svet-komet.github.io/)
